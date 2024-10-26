@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025189424518",
+    "project_id": "aquatec-f1754",
+    "storage_bucket": "aquatec-f1754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025189424518:android:a6e4f20162a1f5bae19007",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAvellKlRK-EpG4I99Qa9ASX-EGkCBW3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

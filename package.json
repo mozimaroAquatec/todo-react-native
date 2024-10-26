@@ -3,13 +3,18 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "android": "react-native run-android",
+    "dev": "react-native run-android",
     "ios": "react-native run-ios",
     "lint": "eslint .",
     "start": "react-native start",
     "test": "jest"
   },
   "dependencies": {
+    "@firebase/database": "^1.0.9",
+    "@react-native-firebase/app": "^21.2.0",
+    "@react-native-firebase/database": "^21.2.0",
+    "@react-native/gradle-plugin": "^0.76.0",
+    "firebase": "^11.0.1",
     "react": "18.3.1",
     "react-native": "0.76.0"
   },
